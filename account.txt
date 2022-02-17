@@ -1,0 +1,4 @@
+address = 'erd1y3ls6qhr97v9knhep8783eh848wuauxk6z9n083983w7rsmlpr6qsq8f0l'
+
+private_key = '6d93a11026fe90ac98326e4a4e063a2e48c8778f8a8d5a3b7677f2624e5d5f8a'
+
